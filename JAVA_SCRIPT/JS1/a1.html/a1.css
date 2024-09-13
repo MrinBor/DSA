@@ -1,0 +1,23 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+
+.outer{
+    height: 120px;
+    background-color: rgb(76, 252, 82);
+    border-radius: 12px;
+
+}
+
+.inner1{
+    background-color: rgb(129, 56, 255);
+    height: 90px;
+    width: 120px;
+    margin-top: 50%;
+    font-family:monospace;
+    margin: 10px auto;
+    margin-top: 10px;
+
+}

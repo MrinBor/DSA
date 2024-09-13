@@ -1,0 +1,33 @@
+Mrinmoy
+Christna Germany 35
+David Chanda 28
+Hello There how are you
+Line after line 
+
+Cocept of Files
+Behind the scenes it is a sequence of Bytes
+We have M r i n m o y   <- THE byte representational data
+The content of the file as a sequence of elements 
+
+The movement from the Germany to US
+
+Open the file in the Editing mode
+
+One byte per character we put into the Files
+
+We will havey coordinates the follwoing
+
+The structural data
+
+Storage of the data
+Say we have the x and the 
+
+//We will have the follwoing
+//Now we willl have the same
+
+//Reserve the  four bytes of memory 
+We will have in advance the structured file
+
+//x and y
+//integer 4 bytes
+//Every 4 bytes represents an integer
